@@ -1,7 +1,6 @@
 # Snort-IDS-on-an-Ubuntu-environment
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
 The objective of this project was to deploy and configure Snort Intrusion Detection System (IDS) on an Ubuntu environment to gain hands-on experience with network traffic monitoring and intrusion detection.
 Specifically, the project aimed to:
